@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-15T12:38:04.941104",
+  "tag_slug": "iran",
+  "analysis": "1. Regime Change Odds Collapsing on Near-Term Horizons\n\nThe market on Iranian regime falling by March 31 sits at just 4%, down 2.75pp this week and 6.65pp over the month \u2014 the single highest-volume market in the dataset at $33M. The June 30 window is priced at 29%, also down 6pp this week. The end-of-2026 horizon holds at 37%, off 3pp this week. The directional message is unambiguous: markets are consistently repricing regime change as less likely across every timeframe, with the sharpest compression on the shortest windows.\n\n2. US Military Action \u2014 Probability Eroding Across the Board\n\n\"US forces enter Iran by December 31\" is at 65% but dropped 13.5pp this week \u2014 the largest absolute weekly move in the dataset. The US invasion by March 31 sits at 15.1%, down 3pp on the week. The full-year invasion market (\"Will the U.S. invade Iran before 2027\") is at 46%, off 1.5pp this week. US formal war declaration by March 31 is a near-zero 1%. The broad signal: the market is pulling back hard from imminent or near-term US military entry scenarios.\n\n3. Diplomacy and Nuclear Deal \u2014 The One Area Gaining Ground\n\n\"US-Iran nuclear deal by June 30\" is at 21%, up 5pp this week and up 13pp over the month \u2014 the strongest upward momentum in the dataset. \"Iran agrees to end uranium enrichment by March 31\" ticked up 2pp this week to 3.9%. The US-Iran ceasefire by June 30 is priced at 60%, and by May 31 at 51%, though neither showed week-change data. The nuclear deal market's 13pp monthly surge is a standout signal that diplomatic resolution is being increasingly priced in relative to military outcomes.\n\n4. Oil Price Shock Risk \u2014 High Baseline Expectations\n\nMarkets price a 85.2% chance crude hits $100 by end of March, 76.5% for $105, and 63.9% for $110. The $120 strike is at 43% and $150 at 14%. The $200 scenario sits at 3.3%. None of these markets showed weekly change data, suggesting stable conviction rather than reactive trading. The baseline expectation of oil above $100 by month-end reflects the broader market context of active US-Iran military operations being priced in at significant probability.\n\n5. Key Shifts This Week\n\n\"US forces enter Iran by December 31\" fell 13.5pp to 65% \u2014 the largest weekly move across all markets and a clear signal that traders are reducing exposure to a prolonged US military presence scenario. \"Will the Iranian regime fall by June 30\" dropped 6pp to 29%, extending a consistent downward trend. \"US-Iran nuclear deal by June 30\" gained 5pp to 21%, its momentum now at +13pp over the month \u2014 the clearest directional trade in the dataset. \"Reza Pahlavi enter Iran by March 31\" fell 2.2pp to just 2.1%, reinforcing that regime transition scenarios are being heavily discounted. \"Will France, UK, or Germany strike Iran by March 31\" dropped 2.75pp to 8.1%, consistent with Europe being priced out of direct military involvement.",
+  "input_tokens": 5967,
+  "output_tokens": 781,
+  "markets": [
+    {
+      "question": "Will the Iranian regime fall by March 31?",
+      "price": 0.04,
+      "volume": 33056103.31,
+      "day_change": -0.001,
+      "week_change": -0.0275,
+      "month_change": -0.0665,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will the Iranian regime fall by June 30?",
+      "price": 0.29,
+      "volume": 16927956.25,
+      "day_change": 0.02,
+      "week_change": -0.06,
+      "month_change": -0.01,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "Will Iran strike Israel on March 10?",
+      "price": 0.998,
+      "volume": 10455777.96,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "US x Iran ceasefire by March 15?",
+      "price": 0.002,
+      "volume": 10443617.08,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will the Iranian regime fall before 2027?",
+      "price": 0.37,
+      "volume": 9880870.14,
+      "day_change": -0.01,
+      "week_change": -0.03,
+      "month_change": 0.005,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "US forces enter Iran by March 14?",
+      "price": 0.001,
+      "volume": 9634535.87,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-01"
+    },
+    {
+      "question": "US forces enter Iran by March 31?",
+      "price": 0.31,
+      "volume": 9184715.92,
+      "day_change": -0.005,
+      "week_change": -0.01,
+      "month_change": 0.02,
+      "end_date": "2026-03-01"
+    },
+    {
+      "question": "US x Iran ceasefire by March 31?",
+      "price": 0.14,
+      "volume": 8764685.26,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will Crude Oil (CL) hit (HIGH) $100 by end of March?",
+      "price": 0.852,
+      "volume": 6007766.75,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will the Iranian regime fall by April 30?",
+      "price": 0.16,
+      "volume": 5270107.91,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-30"
+    },
+    {
+      "question": "Will Reza Pahlavi enter Iran by March 31?",
+      "price": 0.021,
+      "volume": 5066279.47,
+      "day_change": null,
+      "week_change": -0.022,
+      "month_change": -0.0495,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "Will Crude Oil (CL) hit (HIGH) $200 by end of March?",
+      "price": 0.033,
+      "volume": 4863104.93,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Crude Oil (CL) hit (HIGH) $150 by end of March?",
+      "price": 0.14,
+      "volume": 4571210.5,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will France, UK, or Germany strike Iran by March 31?",
+      "price": 0.081,
+      "volume": 3731281.12,
+      "day_change": -0.003,
+      "week_change": -0.0275,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Iran leadership change by March 13?",
+      "price": 0.002,
+      "volume": 3583301.01,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "US x Iran ceasefire by March 2?",
+      "price": 0.001,
+      "volume": 3493959.1,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will Crude Oil (CL) hit (HIGH) $120 by end of March?",
+      "price": 0.43,
+      "volume": 3201127.28,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Crude Oil (CL) hit (HIGH) $110 by end of March?",
+      "price": 0.639,
+      "volume": 3152423.33,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will the US officially declare war on Iran by March 31, 2026?",
+      "price": 0.01,
+      "volume": 2887228.3,
+      "day_change": 0.001,
+      "week_change": -0.005,
+      "month_change": -0.0185,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will another country strike Iran by March 31?",
+      "price": 0.26,
+      "volume": 2786887.21,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-14T13:31:50.264231",
+  "tag_slug": "bitcoin",
+  "analysis": "1. Bitcoin Downside Risk: Market Has Repriced Dramatically Lower\n\nThe $65k dip-by-EOY-2026 market has exploded to 99.9% (+42.45pp this week, +48.45pp this month), and the $75k dip-by-EOY-2026 market sits at 99.9% (+30.45pp this week). The $55k dip market is at 70% and the $45k dip market at 47%\u2014both elevated significantly over the past month (+35.5pp and +26pp respectively). Current March spot pricing confirms the bear case is live: Bitcoin above $70k in March trades at 99.9% certainty, but above $75k is only 58%, above $80k is 24%, and above $85k is just 8%\u2014placing spot Bitcoin squarely in the $70\u201375k range as of this briefing.\n\n2. Upside Targets: The Bull Case Has Collapsed\n\nThe probability of Bitcoin reaching a new all-time high by December 31, 2026 has fallen to just 19%, down 2.5pp this week and 18pp this month. The $130k target is at 15% (-5.5pp this week, -17.5pp this month), $140k at 10% (-3pp this week), and $150k at 9% (-1.5pp this week). $100k by EOY 2026 sits at 41%, down 40.5pp over the past month\u2014the single largest month-on-month collapse in the upside cluster. The market has systematically repriced the entire bull stack lower over the past 30 days.\n\n3. March 2026 Price Window: Tight Range, Low Upside\n\nBitcoin reaching $150k in March is priced at 0.4%, $100k at 0.7%, $90k at 2.3%, and $85k at 8%\u2014the near-term ceiling is firmly capped. A new all-time high by March 31 is at just 0.5%, down 0.55pp this week. The \"Bitcoin hit $60k or $80k first\" market sits at exactly 50%, reflecting genuine two-sided uncertainty about whether the next major level touched is higher or lower from current spot. A $65k dip in March is priced at 50.5%, and a $60k dip at 23%\u2014meaningful crash probabilities within weeks.\n\n4. MicroStrategy and Structural Bitcoin Catalysts\n\nThe \"Nothing Ever Happens: MicroStrategy\" market\u2014betting that no major MicroStrategy event occurs by March 31\u2014is at just 3.8% but has surged +5pp this week and an extraordinary +69pp this month, suggesting the market initially priced high drama and has since walked it back hard. Satoshi moving Bitcoin in 2026 is priced at 8.6%, barely moving (+0.6pp this week). China unbanning Bitcoin by 2027 sits at 3.9%, down 0.65pp this week. These structural/catalyst markets are all low-probability and stable, contributing no meaningful bullish momentum.\n\n5. Key Shifts This Week\n\nThe dominant move this week is the violent repricing of the $65k dip-by-EOY-2026 market: +42.45pp to 99.9%, the largest single weekly move in the dataset. The $75k dip-by-EOY-2026 market followed with +30.45pp to 99.9%\u2014together these represent the market fully accepting that Bitcoin will revisit these levels before year-end. On the upside, $130k by EOY lost 5.5pp to 15% and the all-time-high-by-EOY market dropped 2.5pp to 19%, continuing a month-long deterioration in bull conviction. The MicroStrategy \"nothing happens\" market added +5pp this week to 3.8%, consolidating a massive monthly reversal. The $25k dip-by-EOY market quietly gained +3pp to 14%\u2014a tail-risk signal worth watching.",
+  "input_tokens": 6249,
+  "output_tokens": 943,
+  "markets": [
+    {
+      "question": "Will Bitcoin reach $150,000 in March?",
+      "price": 0.004,
+      "volume": 12028240.1,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $250,000 by December 31, 2026?",
+      "price": 0.043,
+      "volume": 4273588.66,
+      "day_change": null,
+      "week_change": null,
+      "month_change": 0.002,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $15,000 by December 31, 2026?",
+      "price": 0.067,
+      "volume": 4040238.52,
+      "day_change": null,
+      "week_change": -0.0015,
+      "month_change": 0.0255,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin reach $75,000 in March?",
+      "price": 0.58,
+      "volume": 3022371.79,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Bitcoin all time high by March 31, 2026?",
+      "price": 0.005,
+      "volume": 2930818.23,
+      "day_change": -0.0035,
+      "week_change": -0.0055,
+      "month_change": -0.0485,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $65,000 in March?",
+      "price": 0.505,
+      "volume": 2833187.26,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 in March?",
+      "price": 0.23,
+      "volume": 2087108.02,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 in March?",
+      "price": 0.01,
+      "volume": 1987393.33,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Nothing Ever Happens: MicroStrategy",
+      "price": 0.038,
+      "volume": 1958818.95,
+      "day_change": 0.03,
+      "week_change": 0.05,
+      "month_change": 0.69,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 in March?",
+      "price": 0.11,
+      "volume": 1820179.7,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $70,000 in March?",
+      "price": 0.999,
+      "volume": 1801388.2,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $80,000 in March?",
+      "price": 0.24,
+      "volume": 1759639.09,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $100,000 in March?",
+      "price": 0.007,
+      "volume": 1713826.76,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $90,000 in March?",
+      "price": 0.023,
+      "volume": 1658967.24,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $20,000 in March?",
+      "price": 0.002,
+      "volume": 1653116.86,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 by December 31, 2026?",
+      "price": 0.7,
+      "volume": 1650983.2,
+      "day_change": -0.055,
+      "week_change": -0.03,
+      "month_change": 0.355,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin reach $110,000 in March?",
+      "price": 0.005,
+      "volume": 1616745.14,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Satoshi move any Bitcoin in 2026?",
+      "price": 0.086,
+      "volume": 1611916.28,
+      "day_change": null,
+      "week_change": 0.006,
+      "month_change": 0.011,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $45,000 by December 31, 2026?",
+      "price": 0.47,
+      "volume": 1562721.77,
+      "day_change": -0.1,
+      "week_change": 0.02,
+      "month_change": 0.26,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin hit $150k by December 31?",
+      "price": 1.0,
+      "volume": 1555669.59,
+      "day_change": -0.001,
+      "week_change": -0.002,
+      "month_change": -0.011,
+      "end_date": "2026-01-01"
+    }
+  ]
+}

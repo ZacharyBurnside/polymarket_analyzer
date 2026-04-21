@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-03-14T21:12:32.267514",
+  "tag_slug": "all",
+  "analysis": "1. GTA VI as the Universal Benchmark\n\nAll 9 markets resolve against GTA VI's release date of July 31, 2026, making the game's launch the central anchor for this entire category. The highest-volume market \u2014 \"Will Jesus Christ return before GTA VI?\" \u2014 sits at 48% with $10M in volume, functioning as a baseline absurdist calibration. The cluster of geopolitical, cultural, and crypto events all priced between 48\u201364% reflects broad market uncertainty about whether GTA VI ships on schedule rather than strong conviction on the individual events themselves.\n\n2. Geopolitical Events vs. GTA VI Timeline\n\nRussia-Ukraine Ceasefire before GTA VI is priced at 53% ($1.37M volume) but has dropped 4pp over the past month, suggesting fading optimism about near-term ceasefire prospects. China invades Taiwan before GTA VI sits at 51% ($1.47M), ticking up 0.5pp today. Both markets hovering near 50% indicates genuine uncertainty \u2014 markets are not pricing these as remote tail risks but as roughly coin-flip probabilities within the July 2026 window.\n\n3. Music Releases Racing the Clock\n\nThree music markets are active, all resolved against July 2026. Drake's \"Iceman\" leads at 96.8% ($68K volume) \u2014 the highest-conviction market in the entire dataset \u2014 and has surged 7.25pp over the past month, now approaching near-certainty. Playboi Carti's new album sits at 63% but has slipped 3pp this week. Rihanna's album is at 54% and has fallen 4.5pp over the past month, reflecting continued skepticism about her release timeline.\n\n4. Tech and Crypto Milestones\n\nBitcoin hitting $1M before GTA VI is priced at 48.8% ($3.57M volume), essentially a coin flip, with minimal movement \u2014 up just 0.25pp this week and flat on the day. GPT-6 release before GTA VI sits at 64% ($607K volume), down 1pp today and 2.5pp over the month, suggesting slight cooling in AI release optimism. Neither market is showing strong directional conviction this week.\n\n5. Key Shifts This Week\n\nDrake's \"Iceman\" is the biggest mover, up 2.9pp this week and 7.25pp over the month to 96.8% \u2014 the market is pricing this release as near-certain before July 2026. Playboi Carti's album is the steepest weekly decliner, dropping 3pp to 63%, reversing recent upward momentum. Trump out as President before GTA VI edged up 0.5pp to 52%, the only political market showing any directional movement this week. Bitcoin $1M gained 0.25pp to 48.8% \u2014 marginal movement on the dataset's second-largest market by volume.",
+  "input_tokens": 1689,
+  "output_tokens": 671,
+  "markets": [
+    {
+      "question": "Will Jesus Christ return before GTA VI?",
+      "price": 0.48,
+      "volume": 10026083.54,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "Will bitcoin hit $1m before GTA VI?",
+      "price": 0.488,
+      "volume": 3566708.5,
+      "day_change": -0.001,
+      "week_change": 0.0025,
+      "month_change": 0.0025,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "Will China invades Taiwan before GTA VI?",
+      "price": 0.51,
+      "volume": 1474521.41,
+      "day_change": 0.005,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "Russia-Ukraine Ceasefire before GTA VI?",
+      "price": 0.53,
+      "volume": 1371637.52,
+      "day_change": null,
+      "week_change": null,
+      "month_change": -0.04,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "New Playboi Carti Album before GTA VI?",
+      "price": 0.63,
+      "volume": 684416.56,
+      "day_change": 0.015,
+      "week_change": -0.03,
+      "month_change": 0.015,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "New Rihanna Album before GTA VI?",
+      "price": 0.54,
+      "volume": 656034.49,
+      "day_change": -0.01,
+      "week_change": null,
+      "month_change": -0.045,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "Will GPT-6 be released before GTA VI?",
+      "price": 0.64,
+      "volume": 607136.16,
+      "day_change": -0.01,
+      "week_change": null,
+      "month_change": -0.025,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "Trump out as President before GTA VI?",
+      "price": 0.52,
+      "volume": 538024.12,
+      "day_change": null,
+      "week_change": 0.005,
+      "month_change": 0.005,
+      "end_date": "2026-07-31"
+    },
+    {
+      "question": "Will Drake release Iceman before GTA VI?",
+      "price": 0.968,
+      "volume": 68417.18,
+      "day_change": 0.049,
+      "week_change": 0.029,
+      "month_change": 0.0725,
+      "end_date": "2026-07-31"
+    }
+  ]
+}

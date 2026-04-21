@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-14T13:47:58.828020",
+  "tag_slug": "israel",
+  "analysis": "1. Gaza Ceasefire Collapse\n\nPhase II ceasefire talks are effectively dead. \"Israel x Hamas Ceasefire Phase II by March 31?\" sits at just 6.1%, down 10pp this week and a catastrophic -38.5pp over the month. The January 31 deadline variant has already collapsed to 0.1%, down 5.3pp this week. Resolved markets confirm the pattern: the October and December ceasefire cancellation markets both resolved at 100%, and \"Will Hamas agree to disarm by December 31?\" resolved at 100% \u2014 meaning Hamas disarmament was confirmed as not happening, consistent with total Phase II breakdown.\n\n2. Iran Regime Stability \u2014 Near-Term vs. Long-Term Divergence\n\nThe March 31 Iranian regime collapse window is essentially closed at 3.7%, down 2.75pp this week. The June 30 window at 25% dropped 6pp this week \u2014 the largest single-window move in regime-change markets. However, the full-year \"before 2027\" contract holds at 37%, down only 3pp, suggesting markets are deferring rather than dismissing the collapse thesis. Reza Pahlavi's return to Iran by March 31 is priced at just 2%, down 2.2pp weekly, reinforcing the near-term regime-change scenario as remote.\n\n3. Iran-Israel/US Military Escalation\n\n\"Will Israel launch a major ground offensive in Lebanon by March 31?\" remains the highest-conviction active conflict market at 74%, despite slipping 5pp this week and 10.5pp over the month \u2014 still pricing near-certain escalation within 17 days. \"Will the U.S. invade Iran by March 31?\" sits at 19.1% and \"Will the U.S. invade Iran before 2027?\" at 45%, with the near-term down 3pp this week. \"Will another country strike Iran by March 31?\" is at 22%, with UAE at 17% and Saudi Arabia at 14% representing the leading non-US options.\n\n4. Iran Nuclear Deal & Israeli Diplomatic Normalization\n\nThe US-Iran nuclear deal by June 30 rose 5pp this week to 22%, while the before-2027 contract gained 2pp to 40% \u2014 reflecting growing diplomatic signals. The month-change on the June 30 contract is +13pp, and the full-year contract is up +20.5pp over the month, making this one of the strongest sustained upward trends in the dataset. Offsetting the diplomatic optimism, Israel-Indonesia normalization by end-2026 nudged up 4.5pp this week to 17%, while Israel-Syria normalization in 2026 gained 2.5pp to 21%.\n\n5. Key Shifts This Week\n\n**Biggest mover:** \"Israel x Hamas Ceasefire Phase II by March 31?\" cratered -10pp to 6.1%, with a -38.5pp monthly collapse \u2014 the market has essentially written off any near-term deal. **Second biggest:** \"Israeli parliament dissolved by March 31?\" dropped -7.5pp to 3.9%, with Netanyahu's end-of-2026 departure now at 51% (down 3pp this week). **Iranian regime June collapse** fell -6pp to 25%, pulling back from elevated levels despite the longer-term 37% contract holding relatively steady. **US-Iran nuclear deal by June 30** gained +5pp to 22%, the strongest upward mover, consistent with its +13pp monthly surge. **Israel-Indonesia normalization** added +4.5pp to 17%, a notable secondary diplomatic signal.",
+  "input_tokens": 6113,
+  "output_tokens": 833,
+  "markets": [
+    {
+      "question": "Will the Iranian regime fall by March 31?",
+      "price": 0.037,
+      "volume": 31994158.57,
+      "day_change": -0.001,
+      "week_change": -0.0275,
+      "month_change": -0.0665,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will the Iranian regime fall by June 30?",
+      "price": 0.25,
+      "volume": 15892309.59,
+      "day_change": 0.02,
+      "week_change": -0.06,
+      "month_change": -0.01,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "Will the Iranian regime fall before 2027?",
+      "price": 0.37,
+      "volume": 9724732.92,
+      "day_change": -0.01,
+      "week_change": -0.03,
+      "month_change": 0.005,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will Reza Pahlavi enter Iran by March 31?",
+      "price": 0.02,
+      "volume": 4896537.49,
+      "day_change": null,
+      "week_change": -0.022,
+      "month_change": -0.0495,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "Will the Iranian regime fall by April 30?",
+      "price": 0.15,
+      "volume": 4619322.35,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-30"
+    },
+    {
+      "question": "Will Israel launch a major ground offensive in Lebanon by March 31?",
+      "price": 0.74,
+      "volume": 3828083.47,
+      "day_change": -0.015,
+      "week_change": -0.05,
+      "month_change": -0.105,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will the US officially declare war on Iran by March 31, 2026?",
+      "price": 0.011,
+      "volume": 2754142.3,
+      "day_change": 0.001,
+      "week_change": -0.005,
+      "month_change": -0.0185,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will another country strike Iran by March 31?",
+      "price": 0.22,
+      "volume": 2713296.45,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Israel x Hamas ceasefire cancelled by October 31?",
+      "price": 1.0,
+      "volume": 2502858.19,
+      "day_change": -0.0055,
+      "week_change": -0.03,
+      "month_change": null,
+      "end_date": "2025-10-31"
+    },
+    {
+      "question": "Iran x Israel/US conflict ends by March 15?",
+      "price": 0.004,
+      "volume": 2403641.86,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-15"
+    },
+    {
+      "question": "Will the U.S. invade Iran by March 31?",
+      "price": 0.191,
+      "volume": 1812193.74,
+      "day_change": 0.015,
+      "week_change": -0.03,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will UAE strike Iran by March 31?",
+      "price": 0.17,
+      "volume": 1617840.36,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will Reza Pahlavi enter Iran by June 30?",
+      "price": 0.13,
+      "volume": 1444292.36,
+      "day_change": -0.005,
+      "week_change": null,
+      "month_change": -0.035,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "Iran x Israel/US conflict ends by March 31?",
+      "price": 0.16,
+      "volume": 1333648.09,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Saudi Arabia strike Iran by March 31?",
+      "price": 0.14,
+      "volume": 1299699.35,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will Iran strike Cyprus in March?",
+      "price": 0.044,
+      "volume": 1141687.03,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-07"
+    },
+    {
+      "question": "Will Hamas agree to disarm by December 31?",
+      "price": 1.0,
+      "volume": 1141374.5,
+      "day_change": -0.002,
+      "week_change": -0.005,
+      "month_change": -0.0525,
+      "end_date": "2025-12-31"
+    },
+    {
+      "question": "Will Israel strike 2 countries in 2026?",
+      "price": 0.079,
+      "volume": 1072703.34,
+      "day_change": -0.019,
+      "week_change": -0.0205,
+      "month_change": -0.031,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Netanyahu out by March 31?",
+      "price": 0.07,
+      "volume": 1059075.36,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "US-Iran nuclear deal by March 31?",
+      "price": 0.032,
+      "volume": 1024486.11,
+      "day_change": -0.005,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-16T02:51:55.060896",
+  "tag_slug": "crypto",
+  "analysis": "1. Bitcoin Downside Risk: Markets Now Pricing Significant Correction Probability\n\nThe \"Bitcoin dip to $65,000 by December 31, 2026\" market has resolved near certainty at 99.9%, surging +42.45pp this week and +18.45pp today alone \u2014 the single largest weekly mover in the dataset. The companion \"$75,000 dip\" market sits identically at 99.9%, up +30.45pp this week. The \"$55,000 dip by year-end\" market trades at 68% (+35.5pp over the month), and the \"$45,000 dip by year-end\" market sits at 47% (+26pp over the month). Collectively, the market is pricing a 47% chance Bitcoin revisits $45K before end of 2026 \u2014 a structurally bearish long-term posture despite short-term range trading.\n\n2. Bitcoin March Price Levels: Bearish Near-Term Consensus\n\nBitcoin reaching $150,000 in March is priced at 0.5%, and a new all-time high by March 31 is at 0.5% \u2014 both near-zero and the latter down 4.85pp this month. Bitcoin reaching $80,000 in March sits at only 32%, and $90,000 at 3.3%. Conversely, a dip to $65,000 in March prices at 35%, and $60,000 at 14%. The market consensus is that Bitcoin remains trapped in the $70K\u2013$80K corridor for March, with the $75,000 touch market at 71% and $70,000 touch effectively resolved at 99.9%.\n\n3. Token Launch FDV Valuations: Puffpaw, MetaMask, OpenSea Expectations Diverge\n\nPuffpaw's $50M FDV threshold market jumped +18.5pp this week to 62%, while the $100M threshold sits at 34% (+9pp this week) \u2014 implying the market expects a modest but not breakout launch. MetaMask above $700M FDV on launch day trades at 34.3% (+4.2pp this week), but has collapsed 39.8pp over the month, signaling sharply faded optimism. OpenSea above $1B FDV sits at 26% (-3pp this week, -36pp this month), with the $500M tier at 54.3% \u2014 the market has dramatically repriced OpenSea's token launch expectations downward over recent weeks.\n\n4. MegaETH and Institutional Bitcoin Holdings: Low Expectations, Stable Positioning\n\nMegaETH's $2B FDV launch threshold sits at only 15% (+2pp this week), down 13pp over the month; the $1B tier is at 50% (+1pp this week), down 28pp over the month. The market is pricing a roughly coin-flip on MegaETH clearing $1B FDV but sees a $2B launch as a long shot. On the institutional side, \"MicroStrategy sells any Bitcoin in 2025\" and \"by March 31, 2026\" markets sit at 99.9% and 0.8% respectively \u2014 the former effectively resolved, the latter unchanged. The \"Nothing Ever Happens: MicroStrategy\" market at 1.7% rose +5pp this week, suggesting a tiny but growing minority bet on a near-term surprise event.\n\n5. Key Shifts This Week\n\n\"Bitcoin dip to $65,000 by December 31, 2026\" surged +42.45pp this week to 99.9% \u2014 the most dramatic single move in the dataset, reflecting a decisive resolution as current BTC pricing makes this a near-certainty. \"Bitcoin dip to $75,000 by December 31, 2026\" followed with +30.45pp to 99.9%. Puffpaw $50M FDV jumped +18.5pp to 62%, signaling a late surge of confidence ahead of launch. MetaMask $700M FDV gained +4.2pp this week to 34.3%, a minor recovery against a brutal -39.8pp monthly collapse. \"Nothing Ever Happens: MicroStrategy\" added +5pp this week to 1.7%, still negligible but its +69pp monthly rise flags sustained speculative interest in a MicroStrategy event before March 31.",
+  "input_tokens": 6322,
+  "output_tokens": 1012,
+  "markets": [
+    {
+      "question": "MicroStrategy sells any Bitcoin in 2025?",
+      "price": 1.0,
+      "volume": 17976157.53,
+      "day_change": -0.001,
+      "week_change": -0.006,
+      "month_change": -0.0235,
+      "end_date": "2025-12-31"
+    },
+    {
+      "question": "Will Bitcoin reach $150,000 in March?",
+      "price": 0.005,
+      "volume": 12572665.84,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will MetaMask launch a token in 2025?",
+      "price": 1.0,
+      "volume": 6182924.7,
+      "day_change": -0.001,
+      "week_change": -0.003,
+      "month_change": -0.029,
+      "end_date": "2026-01-01"
+    },
+    {
+      "question": "MegaETH market cap (FDV) >$2B one day after launch?",
+      "price": 0.15,
+      "volume": 5519481.27,
+      "day_change": 0.01,
+      "week_change": 0.02,
+      "month_change": -0.13,
+      "end_date": "2025-12-31"
+    },
+    {
+      "question": "Will Base launch a token in 2025?",
+      "price": 1.0,
+      "volume": 4891816.69,
+      "day_change": -0.0005,
+      "week_change": -0.0015,
+      "month_change": -0.0245,
+      "end_date": "2026-01-01"
+    },
+    {
+      "question": "Will Bitcoin reach $250,000 by December 31, 2026?",
+      "price": 0.044,
+      "volume": 4327916.82,
+      "day_change": null,
+      "week_change": null,
+      "month_change": 0.002,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $15,000 by December 31, 2026?",
+      "price": 0.068,
+      "volume": 4070799.09,
+      "day_change": null,
+      "week_change": -0.0015,
+      "month_change": 0.0255,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Will Bitcoin reach $75,000 in March?",
+      "price": 0.71,
+      "volume": 3144986.6,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Bitcoin all time high by March 31, 2026?",
+      "price": 0.005,
+      "volume": 2991492.05,
+      "day_change": -0.0035,
+      "week_change": -0.0055,
+      "month_change": -0.0485,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $65,000 in March?",
+      "price": 0.35,
+      "volume": 2978742.52,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Ethereum reach $4,000 in March?",
+      "price": 0.003,
+      "volume": 2879502.71,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $60,000 in March?",
+      "price": 0.14,
+      "volume": 2265175.67,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "MegaETH market cap (FDV) >$1B one day after launch?",
+      "price": 0.5,
+      "volume": 2241194.52,
+      "day_change": null,
+      "week_change": 0.01,
+      "month_change": -0.28,
+      "end_date": "2025-12-31"
+    },
+    {
+      "question": "MegaETH market cap (FDV) >$6B one day after launch?",
+      "price": 0.013,
+      "volume": 2149821.0,
+      "day_change": -0.002,
+      "week_change": 0.003,
+      "month_change": -0.004,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "MicroStrategy sells any Bitcoin by March 31, 2026?",
+      "price": 0.008,
+      "volume": 2138208.61,
+      "day_change": -0.0015,
+      "week_change": 0.0005,
+      "month_change": -0.027,
+      "end_date": ""
+    },
+    {
+      "question": "Will Bitcoin dip to $55,000 in March?",
+      "price": 0.05,
+      "volume": 2046025.69,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin dip to $20,000 in March?",
+      "price": 0.004,
+      "volume": 2036560.11,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Bitcoin reach $95,000 in March?",
+      "price": 0.011,
+      "volume": 2032239.49,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "EdgeX FDV above $1B one day after launch?",
+      "price": 0.35,
+      "volume": 2008620.83,
+      "day_change": 0.015,
+      "week_change": null,
+      "month_change": -0.155,
+      "end_date": "2027-01-01"
+    },
+    {
+      "question": "Nothing Ever Happens: MicroStrategy",
+      "price": 0.017,
+      "volume": 1995193.62,
+      "day_change": 0.03,
+      "week_change": 0.05,
+      "month_change": 0.69,
+      "end_date": "2026-03-31"
+    }
+  ]
+}

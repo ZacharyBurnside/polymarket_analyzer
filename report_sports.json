@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-14T00:37:09.617077",
+  "tag_slug": "sports",
+  "analysis": "1. NHL Stanley Cup \u2014 Colorado Avalanche Surge\n\nThe Colorado Avalanche are the most actionable live market in this dataset. At 23.3% to win the 2026 Stanley Cup, they gained +1.25pp this week on $11.7M volume \u2014 the largest absolute weekly gain among high-probability markets. The day change of -1.25pp suggests some near-term pullback after the weekly run-up, indicating active two-way trading rather than a one-directional drift. No other NHL team appears in the top 50 by volume, making Colorado the de facto market consensus favorite by default.\n\n2. Champions League \u2014 Fringe Contenders Getting Priced In\n\nBod\u00f8/Glimt is the standout mover in Champions League markets, jumping +1pp this week to 2.7% \u2014 a 59% relative increase \u2014 on $14.6M volume, the highest of any UCL market in the dataset. Galatasaray also gained +0.6pp to 1.0% and Atalanta +0.7pp to 0.1%, signaling that market participants are rotating into long-shot UCL positions, likely tied to recent match results in the knockout rounds. Club Brugge (-0.3pp), Slavia Prague (-0.1pp), Athletic Club (-0.2pp), and Benfica (-0.2pp) all fell this week, reinforcing a reallocation away from eliminated or underperforming sides toward the survivors.\n\n3. NBA \u2014 Luka Doncic MVP Collapse, Finals Field Wide Open\n\nLuka Don\u010di\u0107's NBA MVP odds have collapsed to just 1.4%, down -1.3pp this week and -9.6pp over the past month \u2014 a near-total wipeout, likely reflecting his trade to the Lakers and/or injury/performance concerns. The NBA Finals market is highly fragmented: Charlotte Hornets lead this dataset's listed contenders at just 1.0% (down -0.35pp this week), with the LA Clippers at 2.3% (down -0.15pp) and Golden State Warriors at 1.2% in the Western Conference Finals market (down -0.25pp). No single team commands meaningful probability, pointing to genuine uncertainty or the absence of the top favorites from this particular data slice.\n\n4. Premier League & Ligue 1 \u2014 Settled Races, Fading Long Shots\n\nThe 2025\u201326 Premier League market shows near-universal 0.1% pricing across Chelsea, Leeds, Tottenham, Aston Villa, Manchester United, and 10+ other clubs \u2014 the title race is effectively over in market terms, with Liverpool implicitly the consensus winner given all competitors are priced at noise levels. Aston Villa is the week's notable decliner at -0.65pp (now 0.2%), extending a brutal -5.2pp monthly drop. In Ligue 1, Lens fell -0.75pp this week to 11.4%, though they remain the second most likely champion in that market \u2014 their month-over-month gain of +3.15pp suggests recent form had boosted them before this week's reversal.\n\n5. Key Shifts This Week\n\n**Biggest mover:** Luka Don\u010di\u0107 MVP down -1.3pp to 1.4%, capping a -9.6pp monthly freefall \u2014 effectively a dead market. **Colorado Avalanche** gained +1.25pp to 23.3%, the largest upward move in absolute terms among liquid markets. **Bod\u00f8/Glimt** added +1.0pp to 2.7% in UCL, the strongest relative gain in that competition's markets. **Aston Villa** EPL shed -0.65pp to 0.2%, continuing a month-long collapse from what was once a non-trivial title contention price. **Lens** in Ligue 1 dropped -0.75pp to 11.4% after a strong monthly run, suggesting a specific negative catalyst this week.",
+  "input_tokens": 6525,
+  "output_tokens": 916,
+  "markets": [
+    {
+      "question": "Will Chelsea win the 2025\u201326 English Premier League?",
+      "price": 0.001,
+      "volume": 75156552.54,
+      "day_change": null,
+      "week_change": -0.001,
+      "month_change": -0.0045,
+      "end_date": "2026-05-27"
+    },
+    {
+      "question": "Will Leeds win the 2025\u201326 English Premier League?",
+      "price": 0.001,
+      "volume": 38359350.12,
+      "day_change": null,
+      "week_change": -0.001,
+      "month_change": -0.001,
+      "end_date": "2026-05-27"
+    },
+    {
+      "question": "Will the Memphis Grizzlies win the 2026 NBA Finals?",
+      "price": 0.002,
+      "volume": 33923267.46,
+      "day_change": null,
+      "week_change": null,
+      "month_change": -0.001,
+      "end_date": "2026-07-01"
+    },
+    {
+      "question": "Will Athletic Bilbao win the 2025\u201326 La Liga?",
+      "price": 0.001,
+      "volume": 31040208.24,
+      "day_change": -0.001,
+      "week_change": 0.002,
+      "month_change": 0.004,
+      "end_date": "2026-05-30"
+    },
+    {
+      "question": "Will Tottenham win the 2025\u201326 English Premier League?",
+      "price": 0.001,
+      "volume": 30343735.16,
+      "day_change": null,
+      "week_change": null,
+      "month_change": -0.0005,
+      "end_date": "2026-05-27"
+    },
+    {
+      "question": "Will Slavia Pragu win the 2025\u201326 Champions League?",
+      "price": 0.001,
+      "volume": 28392439.06,
+      "day_change": -0.001,
+      "week_change": -0.001,
+      "month_change": -0.001,
+      "end_date": "2026-05-31"
+    },
+    {
+      "question": "Will Atletico Madrid win the 2025\u201326 La Liga?",
+      "price": 0.002,
+      "volume": 25924059.24,
+      "day_change": 0.001,
+      "week_change": 0.001,
+      "month_change": -0.009,
+      "end_date": "2026-05-30"
+    },
+    {
+      "question": "Will the Charlotte Hornets win the 2026 NBA Finals?",
+      "price": 0.01,
+      "volume": 25846371.8,
+      "day_change": 0.0005,
+      "week_change": -0.0035,
+      "month_change": 0.0055,
+      "end_date": "2026-07-01"
+    },
+    {
+      "question": "Will Uzbekistan win the 2026 FIFA World Cup?",
+      "price": 0.002,
+      "volume": 23179158.37,
+      "day_change": null,
+      "week_change": -0.001,
+      "month_change": -0.001,
+      "end_date": "2026-07-20"
+    },
+    {
+      "question": "Will the Chicago Bulls win the 2026 NBA Finals?",
+      "price": 0.001,
+      "volume": 22254680.39,
+      "day_change": null,
+      "week_change": null,
+      "month_change": -0.002,
+      "end_date": "2026-07-01"
+    },
+    {
+      "question": "Will Olympiakos win the 2025\u201326 Champions League?",
+      "price": 0.001,
+      "volume": 21360158.23,
+      "day_change": -0.001,
+      "week_change": -0.002,
+      "month_change": -0.002,
+      "end_date": "2026-05-31"
+    },
+    {
+      "question": "Will Villarreal win the 2025\u201326 La Liga?",
+      "price": 0.001,
+      "volume": 20429769.69,
+      "day_change": 0.0005,
+      "week_change": -0.003,
+      "month_change": 0.0005,
+      "end_date": "2026-05-30"
+    },
+    {
+      "question": "Will the Utah Jazz win the 2026 NBA Finals?",
+      "price": 0.001,
+      "volume": 18822517.54,
+      "day_change": null,
+      "week_change": null,
+      "month_change": 0.001,
+      "end_date": "2026-07-01"
+    },
+    {
+      "question": "Will Club Brugge win the 2025\u201326 Champions League?",
+      "price": 0.001,
+      "volume": 18743514.48,
+      "day_change": null,
+      "week_change": -0.003,
+      "month_change": -0.003,
+      "end_date": "2026-05-31"
+    },
+    {
+      "question": "Will Mallorca win the 2025\u201326 La Liga?",
+      "price": 0.001,
+      "volume": 18654900.4,
+      "day_change": null,
+      "week_change": -0.001,
+      "month_change": null,
+      "end_date": "2026-05-30"
+    },
+    {
+      "question": "Will Everton win the 2025\u201326 English Premier League?",
+      "price": 0.001,
+      "volume": 18255937.81,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-05-27"
+    },
+    {
+      "question": "Will Aston Villa win the 2025\u201326 English Premier League?",
+      "price": 0.002,
+      "volume": 18035553.68,
+      "day_change": 0.001,
+      "week_change": -0.0065,
+      "month_change": -0.052,
+      "end_date": "2026-05-27"
+    },
+    {
+      "question": "Will Brighton win the 2025\u201326 English Premier League?",
+      "price": 0.001,
+      "volume": 16471720.81,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-05-27"
+    },
+    {
+      "question": "Will the New Orleans Pelicans win the 2026 NBA Finals?",
+      "price": 0.001,
+      "volume": 15948308.31,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-07-01"
+    },
+    {
+      "question": "Will West Ham win the 2025\u201326 English Premier League?",
+      "price": 0.001,
+      "volume": 15860564.87,
+      "day_change": null,
+      "week_change": -0.001,
+      "month_change": -0.001,
+      "end_date": "2026-05-27"
+    }
+  ]
+}

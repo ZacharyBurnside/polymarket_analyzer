@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-14T15:59:43.630181",
+  "tag_slug": "economy",
+  "analysis": "1. Fed Rate Path: April and June Hold Expectations Surge\n\nThe dominant story is markets pricing out any near-term Fed cuts. \"No change after April 2026 meeting\" jumped +13.5pp this week to 91%, while the mirror market \u2014 \"25 bps cut after April\" \u2014 fell -12pp to just 5%. The June hold market moved in lockstep, up +12pp to 62%. The full-year cut distribution confirms the hawkish shift: \"1 cut in 2026\" sits at 30%, \"0 cuts\" at 23.3%, and \"2 cuts\" at 23% \u2014 with the modal outcome now either zero or one cut. The March meeting is already a foregone conclusion at 99.6% for no change.\n\n2. NVIDIA Consolidates Market Cap Dominance\n\nNVIDIA's probability of being the largest company by June 30 rose +6pp this week to 79%, on top of a +7.5pp monthly gain. It already sits at 98.8% to hold the top spot through March 31. Alphabet is the clearest loser in this framing: its June 30 odds fell -4.8pp this week to just 7.8%, and its March 31 odds are at 0.6%. Apple ticked up slightly (+1.3pp weekly) to 0.4% for March 31 \u2014 irrelevant in magnitude but directionally consistent with a broader non-NVIDIA rotation story. No other company comes close to challenging NVIDIA's near-term position.\n\n3. US Recession and Macro Tail Risk\n\nThe US recession by end-2026 market sits at 34% with a -3pp monthly drift and flat week \u2014 notable as a stable but elevated baseline. \"No Fed rate cuts in 2026\" at 23.3% (down -2pp this week) suggests markets haven't fully abandoned easing but are pricing meaningful risk of prolonged hold. The \"12 or more cuts\" market at 1.8% and the \"3 cuts\" market falling -2pp to 11% this week reinforce that aggressive easing scenarios are being systematically repriced away. Recession risk and rate stasis are now co-existing in the market's central scenario.\n\n4. MicroStrategy Bitcoin Sale Risk Remains Negligible\n\nAll MicroStrategy Bitcoin sale markets remain deeply skeptical of any forced selling. The \"sells by March 31\" market is at 0.8%, \"by June 30\" at 3.4%, and \"by December 31, 2026\" at 12% \u2014 the latter falling -2.5pp this week and -10pp this month. The already-resolved \"sells any Bitcoin in 2025\" market sits at 100%, confirming the question resolved as \"no sale.\" The Bank of Japan holds at 97.7% for no change at its March meeting, adding to a global central bank pause narrative that indirectly supports crypto collateral stability.\n\n5. Key Shifts This Week\n\nThe single largest mover is \"No change after April 2026 meeting\" at +13.5pp to 91%, directly mirrored by \"25 bps cut after April\" at -12pp to 5% \u2014 a decisive repricing of the April meeting in a single week. \"No change after June 2026 meeting\" added +12pp to 62%, extending the hold narrative two meetings out. NVIDIA's June 30 top market cap position gained +6pp to 79%, while Alphabet shed -4.8pp to 7.8% for the same date. The \"Fed Cut\u2013Pause\u2013Pause\" sequence market confirmed at +4.3pp to 99.5%, essentially closing out the March meeting narrative and shifting full attention to whether the pause extends through mid-year.",
+  "input_tokens": 6583,
+  "output_tokens": 851,
+  "markets": [
+    {
+      "question": "Will the Fed decrease interest rates by 50+ bps after the March 2026 meeting?",
+      "price": 0.001,
+      "volume": 141188010.13,
+      "day_change": null,
+      "week_change": -0.002,
+      "month_change": -0.007,
+      "end_date": "2026-03-18"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25+ bps after the March 2026 meeting?",
+      "price": 0.002,
+      "volume": 131785336.17,
+      "day_change": -0.001,
+      "week_change": -0.002,
+      "month_change": -0.012,
+      "end_date": "2026-03-18"
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the March 2026 meeting?",
+      "price": 0.996,
+      "volume": 58196679.09,
+      "day_change": 0.006,
+      "week_change": 0.0485,
+      "month_change": 0.1385,
+      "end_date": "2026-03-18"
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the March 2026 meeting?",
+      "price": 0.002,
+      "volume": 52311621.53,
+      "day_change": -0.0005,
+      "week_change": -0.037,
+      "month_change": -0.127,
+      "end_date": "2026-03-18"
+    },
+    {
+      "question": "MicroStrategy sells any Bitcoin in 2025?",
+      "price": 1.0,
+      "volume": 17976157.53,
+      "day_change": -0.001,
+      "week_change": -0.006,
+      "month_change": -0.0235,
+      "end_date": "2025-12-31"
+    },
+    {
+      "question": "Will Amazon be the largest company in the world by market cap on March 31?",
+      "price": 0.001,
+      "volume": 2800130.25,
+      "day_change": null,
+      "week_change": -0.0005,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Tesla be the largest company in the world by market cap on March 31?",
+      "price": 0.001,
+      "volume": 2158335.27,
+      "day_change": null,
+      "week_change": null,
+      "month_change": -0.001,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "MicroStrategy sells any Bitcoin by March 31, 2026?",
+      "price": 0.008,
+      "volume": 2108162.39,
+      "day_change": -0.0015,
+      "week_change": 0.0005,
+      "month_change": -0.027,
+      "end_date": ""
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 50+ bps after the April 2026 meeting?",
+      "price": 0.013,
+      "volume": 2069615.79,
+      "day_change": -0.0005,
+      "week_change": -0.009,
+      "month_change": -0.009,
+      "end_date": "2026-04-29"
+    },
+    {
+      "question": "Will the Fed increase interest rates by 25+ bps after the April 2026 meeting?",
+      "price": 0.021,
+      "volume": 2055910.22,
+      "day_change": null,
+      "week_change": null,
+      "month_change": -0.0155,
+      "end_date": "2026-04-29"
+    },
+    {
+      "question": "Will no Fed rate cuts happen in 2026?",
+      "price": 0.233,
+      "volume": 1937136.33,
+      "day_change": -0.001,
+      "week_change": -0.0205,
+      "month_change": 0.0205,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will the Fed decrease interest rates by 25 bps after the April 2026 meeting?",
+      "price": 0.05,
+      "volume": 1615766.19,
+      "day_change": -0.03,
+      "week_change": -0.12,
+      "month_change": -0.15,
+      "end_date": "2026-04-29"
+    },
+    {
+      "question": "Will there be no change in Fed interest rates after the April 2026 meeting?",
+      "price": 0.91,
+      "volume": 1507773.36,
+      "day_change": 0.02,
+      "week_change": 0.135,
+      "month_change": 0.175,
+      "end_date": "2026-04-29"
+    },
+    {
+      "question": "Will 6 Fed rate cuts happen in 2026?",
+      "price": 0.017,
+      "volume": 1465779.02,
+      "day_change": 0.001,
+      "week_change": -0.0025,
+      "month_change": -0.018,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will Microsoft be the largest company in the world by market cap on March 31?",
+      "price": 0.001,
+      "volume": 1451966.2,
+      "day_change": null,
+      "week_change": 0.0005,
+      "month_change": -0.0025,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will NVIDIA be the largest company in the world by market cap on March 31?",
+      "price": 0.988,
+      "volume": 1255669.42,
+      "day_change": null,
+      "week_change": 0.005,
+      "month_change": 0.075,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will 12 or more Fed rate cuts happen in 2026?",
+      "price": 0.018,
+      "volume": 1140141.9,
+      "day_change": -0.0025,
+      "week_change": 0.008,
+      "month_change": 0.002,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Fed rate cut by March 2026 meeting?",
+      "price": 0.013,
+      "volume": 909633.92,
+      "day_change": 0.0045,
+      "week_change": -0.037,
+      "month_change": -0.147,
+      "end_date": "2026-03-18"
+    },
+    {
+      "question": "Will Saudi Aramco be the largest company in the world by market cap on March 31?",
+      "price": 0.001,
+      "volume": 850203.82,
+      "day_change": -0.001,
+      "week_change": -0.0005,
+      "month_change": 0.0005,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Apple be the largest company in the world by market cap on March 31?",
+      "price": 0.004,
+      "volume": 767118.96,
+      "day_change": 0.003,
+      "week_change": 0.013,
+      "month_change": 0.019,
+      "end_date": "2026-03-31"
+    }
+  ]
+}

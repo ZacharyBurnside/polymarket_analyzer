@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-14T21:03:45.047544",
+  "tag_slug": "trump",
+  "analysis": "1. US-Iran Military Escalation\n\nThe Iran conflict cluster dominates by volume and shows meaningful divergence across timeframes. \"US forces enter Iran by December 31\" sits at 70% but has collapsed -13.5pp this week \u2014 the single largest directional move in this cluster. \"US forces enter Iran by March 31\" holds at 42% with only -1pp weekly drift, while \"Will the U.S. invade Iran by March 31\" sits at 20.1%, down -3pp on the week. The ceasefire ladder prices resolution at 16% by March 31, 36% by April 30, 53% by May 31, and 58% by June 30 \u2014 a shallow curve suggesting the market expects prolonged conflict rather than quick resolution. \"Iran agrees to end enrichment by March 31\" nudged up +2pp this week to just 4%, indicating near-zero expectation of a diplomatic breakthrough in the near term.\n\n2. Trump-China Diplomacy Surge\n\n\"Will Trump visit China by March 31\" is the most explosive single market this week, jumping +67pp to 66.8% \u2014 a near-zero-to-majority move in one week, with virtually the entire month-change accounted for this week. The April 30 version prices at 87%, up +3pp weekly and +14pp monthly, confirming the market views a Trump China visit as highly probable within weeks. This is new information being rapidly priced in; the March 31 market's -5.4pp day-change suggests some pullback on the tightest deadline after the initial surge. Combined volume across both markets is ~$2.3M, signaling genuine conviction.\n\n3. Venezuela Regime & Opposition Collapse\n\nThe Venezuela leadership cluster shows near-universal rejection of US-installed figures: Grenell at 0.1%, Donovan at 0.2%, Hegseth at 0.2%, Caine at 0.1%. Delcy Rodr\u00edguez leads at 60% to remain in power end-2026, up +8pp over the month. Mar\u00eda Corina Machado's return markets are in freefall \u2014 the January 31 deadline market sits at 0.2% (down -3.3pp this week), and the March 31 version at 11%, down -3.5pp this week and -18.5pp over the month. Maduro release from custody prices at effectively zero across both deadline markets. The market has decisively concluded the Maduro-aligned government survives and the opposition gains no foothold.\n\n4. Greenland & Mexico Territorial Ambitions Fade\n\n\"Will Trump acquire Greenland before 2027\" \u2014 the highest-volume market at $29.9M \u2014 sits at just 10.2% with virtually no weekly movement (-0.15pp). \"US acquire part of Greenland in 2026\" is at 16%, down -2pp this week and -10pp over the month, while a Trump-Denmark deal by March 31 prices at just 1.5%. The invasion scenario prices at 6%. Mexico military action is similarly deflating: the anti-cartel ground operation by March 31 dropped -8.5pp this week to 9%, and a US strike on Mexico by January 31 fell -0.8pp to 0.4%. Both territorial ambition themes are losing market conviction in parallel.\n\n5. Key Shifts This Week\n\n**Trump China visit (+67pp):** \"Will Trump visit China by March 31\" went from effectively zero to 66.8% in a single week \u2014 the largest absolute weekly move in the dataset by far, on $1.4M volume. **US forces enter Iran by December 31 (-13.5pp):** Dropped from ~83.5% to 70%, the sharpest bearish reversal in the Iran cluster, suggesting reduced near-term escalation expectations. **Epstein client list (-11.75pp):** Now priced at 100% (already resolved/settled), but the -11.75pp weekly reading reflects end-of-market price normalization. **Anti-cartel Mexico operation (-8.5pp):** Fell to 9% by March 31, markets pricing out imminent ground action. **\"Trump out as President by March 31\" (-0.85pp to 1.3%):** Marginal but consistent downward drift; the longer-dated \"before 2027\" version holds at 16%, down -1pp weekly.",
+  "input_tokens": 6177,
+  "output_tokens": 1012,
+  "markets": [
+    {
+      "question": "Will Trump acquire Greenland before 2027?",
+      "price": 0.102,
+      "volume": 29871646.35,
+      "day_change": 0.001,
+      "week_change": -0.0015,
+      "month_change": -0.0015,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will Richard Grenell be the leader of Venezuela end of 2026?",
+      "price": 0.001,
+      "volume": 28760562.4,
+      "day_change": -0.0005,
+      "week_change": -0.001,
+      "month_change": null,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will Frank Donovan be the leader of Venezuela end of 2026?",
+      "price": 0.002,
+      "volume": 24494463.65,
+      "day_change": null,
+      "week_change": 0.001,
+      "month_change": 0.001,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "US x Iran ceasefire by March 15?",
+      "price": 0.008,
+      "volume": 9872723.02,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will the Iranian regime fall before 2027?",
+      "price": 0.38,
+      "volume": 9787758.96,
+      "day_change": -0.01,
+      "week_change": -0.03,
+      "month_change": 0.005,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will the US acquire part of Greenland in 2026?",
+      "price": 0.16,
+      "volume": 8922690.83,
+      "day_change": null,
+      "week_change": -0.02,
+      "month_change": -0.1,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "US forces enter Iran by March 14?",
+      "price": 0.02,
+      "volume": 8754716.3,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-01"
+    },
+    {
+      "question": "US forces enter Iran by March 31?",
+      "price": 0.42,
+      "volume": 8751795.21,
+      "day_change": -0.005,
+      "week_change": -0.01,
+      "month_change": 0.02,
+      "end_date": "2026-03-01"
+    },
+    {
+      "question": "US x Iran ceasefire by March 31?",
+      "price": 0.16,
+      "volume": 8495027.97,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will Pete Hegseth be the leader of Venezuela end of 2026?",
+      "price": 0.002,
+      "volume": 7989552.32,
+      "day_change": null,
+      "week_change": null,
+      "month_change": 0.001,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Trump out as President by March 31?",
+      "price": 0.013,
+      "volume": 6665518.39,
+      "day_change": -0.0005,
+      "week_change": -0.0085,
+      "month_change": -0.0195,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Trump out as President before 2027?",
+      "price": 0.16,
+      "volume": 4564903.08,
+      "day_change": null,
+      "week_change": -0.01,
+      "month_change": -0.005,
+      "end_date": "2026-12-31"
+    },
+    {
+      "question": "Will Judy Shelton be confirmed as Fed Chair?",
+      "price": 0.019,
+      "volume": 3724005.3,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-10-31"
+    },
+    {
+      "question": "US x Iran ceasefire by March 2?",
+      "price": 0.001,
+      "volume": 3493959.1,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Epstein client list released in 2025?",
+      "price": 1.0,
+      "volume": 3490020.65,
+      "day_change": -0.0165,
+      "week_change": -0.1175,
+      "month_change": -0.0395,
+      "end_date": "2025-12-31"
+    },
+    {
+      "question": "Will Mar\u00eda Corina Machado enter Venezuela by January 31?",
+      "price": 0.002,
+      "volume": 2568742.52,
+      "day_change": -0.01,
+      "week_change": -0.033,
+      "month_change": null,
+      "end_date": "2026-01-31"
+    },
+    {
+      "question": "Iran x Israel/US conflict ends by March 15?",
+      "price": 0.004,
+      "volume": 2433838.28,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-15"
+    },
+    {
+      "question": "US x Iran ceasefire by April 30?",
+      "price": 0.36,
+      "volume": 2402938.35,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": ""
+    },
+    {
+      "question": "Will Tim Walz resign by January 31?",
+      "price": 0.001,
+      "volume": 2213253.57,
+      "day_change": -0.002,
+      "week_change": -0.003,
+      "month_change": -0.0155,
+      "end_date": "2026-06-30"
+    },
+    {
+      "question": "Ukraine recognizes Russian sovereignty over its territory by December 31, 2025?",
+      "price": 1.0,
+      "volume": 2130098.43,
+      "day_change": -0.001,
+      "week_change": -0.003,
+      "month_change": -0.014,
+      "end_date": "2025-12-31"
+    }
+  ]
+}

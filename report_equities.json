@@ -1,0 +1,189 @@
+{
+  "timestamp": "2026-03-14T21:09:06.731077",
+  "tag_slug": "equities",
+  "analysis": "1. NVIDIA Price Targets: Confirmed Dips, Upside Rejected\n\nNVIDIA has already breached the $192 and $184 downside targets at 99.9% each, and the $176 dip market also sits at 99.9%, confirming sustained downward price action through March. The $164 dip is now priced at 30% and $152 at 15%, indicating markets see limited probability of a deeper collapse below current levels. Upside markets are emphatically rejected: $260 is at 0.8%, $280 at 0.5%, and $208 at 14% \u2014 all with sharp intraday declines today (the $260 target dropped 47pp, $280 dropped 45.5pp, $260 dropped 46.95pp today alone). The $200 recovery target sits at just 20%, down 3pp today, underscoring that a meaningful near-term rebound is not expected.\n\n2. Google and Tesla Downside Pressure Dominant\n\nGoogle's $300 dip market is at 99.9% (up 8pp today), and the $290 dip sits at 31% (up 5pp today), signaling continued bearish pressure on GOOGL in March. Upside targets are collapsing: $320 dropped 8.5pp and $330 dropped 8.5pp today, both now at 41% and 35% respectively, while $375 is at just 4.3% after a 43.5pp intraday collapse. Tesla's $390 and $405 dip markets are effectively resolved at 99.9% and 99.6%, and the $375 dip sits at 68% \u2014 but deep downside ($263 dip) is only 1.1%, down 8pp today. Tesla closing above $390 end of March is priced at 58%, consistent with a market hovering around that level without clear directional conviction.\n\n3. S&P 500 Macro Range: Bears Control the Narrative\n\nThe SPX $6,600 low target for March is at 82% and $6,500 is at 62%, while $6,300 sits at 38% and $6,000 at 17% \u2014 a probability curve consistent with markets pricing a meaningful drawdown but not a crash. The high-end targets are nearly dead: $7,000 is at 23%, $7,300 at 12.8%, $7,500 at 1.1%, and $8,000 at 0.6%. The extreme low of $5,000 is at just 1.6%, meaning total collapse scenarios remain off the table. The distribution strongly implies consensus around the 6,300\u20136,600 range for the month's trough.\n\n4. Earnings Season: High Beat Expectations Across the Board\n\nMicron (MU) is priced at 97.5% to beat earnings ahead of its March 18 report, the highest-conviction earnings call in the dataset. Playboy (PLBY) jumped 15.5pp today to 98.2% to beat, resolving imminently on March 16. Dollar Tree (DLTR) sits at 94% to beat (March 16), FedEx (FDX) at 95% (March 19), Accenture (ACN) at 90.5% (March 19), Lululemon (LULU) at 90% (March 17), and General Mills (GIS) at 70% \u2014 all reflecting broadly bullish earnings sentiment across consumer, tech, and logistics sectors. Meta closing above $640 end of March is priced at 65%, consistent with the stock holding its recent range.\n\n5. Key Shifts This Week\n\nBeyond Meat (BYND) is the sole market with a confirmed week_change, and it is dramatic: up 36.5pp this week to 17%, with an additional 9pp gain today on $202K volume \u2014 the highest-volume market in the dataset. This sharp reversal suggests a surprise earnings miss was confirmed or strongly anticipated after the market initially priced higher odds of a beat. The NVIDIA intraday moves are the most aggressive single-day shifts: $116 dip dropped 44pp, $260 target dropped 46.95pp, $280 dropped 45.5pp, and $260 dropped 47pp today, all resolving as these price levels became unreachable given current NVIDIA trading levels. Google $375 collapsed 43.5pp intraday to just 4.3%, confirming that a significant upside move in GOOGL this month is now effectively ruled out by the market.",
+  "input_tokens": 5148,
+  "output_tokens": 1065,
+  "markets": [
+    {
+      "question": "Will Beyond Meat (BYND) beat quarterly earnings?",
+      "price": 0.17,
+      "volume": 202185.6,
+      "day_change": 0.09,
+      "week_change": 0.365,
+      "month_change": null,
+      "end_date": "2026-02-25"
+    },
+    {
+      "question": "Will NVIDIA dip to $192 in March?",
+      "price": 0.999,
+      "volume": 189031.77,
+      "day_change": -0.115,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will S&P 500 (SPX) hit $5,000 (LOW) in March 2026?",
+      "price": 0.016,
+      "volume": 94497.51,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will NVIDIA dip to $116 in March?",
+      "price": 0.007,
+      "volume": 85565.37,
+      "day_change": -0.44,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will NVIDIA dip to $184 in March?",
+      "price": 0.999,
+      "volume": 72789.09,
+      "day_change": -0.055,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will NVIDIA reach $280 in March?",
+      "price": 0.005,
+      "volume": 57072.33,
+      "day_change": -0.455,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will S&P 500 (SPX) hit $8,000 (HIGH) in March 2026?",
+      "price": 0.006,
+      "volume": 52702.15,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Tesla dip to $390 in March?",
+      "price": 0.999,
+      "volume": 41950.55,
+      "day_change": 0.015,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Amazon reach $216 in March?",
+      "price": 0.999,
+      "volume": 38767.58,
+      "day_change": 0.015,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Google reach $420 in March?",
+      "price": 0.006,
+      "volume": 37363.42,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Google dip to $215 in March?",
+      "price": 0.024,
+      "volume": 33082.52,
+      "day_change": 0.003,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Google reach $395 in March?",
+      "price": 0.012,
+      "volume": 29621.34,
+      "day_change": -0.005,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Netflix reach $368 in March?",
+      "price": 0.007,
+      "volume": 25583.77,
+      "day_change": -0.007,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will NVIDIA reach $260 in March?",
+      "price": 0.008,
+      "volume": 23321.69,
+      "day_change": -0.4695,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Apple (AAPL) close above $300 end of March?",
+      "price": 0.02,
+      "volume": 21906.12,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Apple (AAPL) close above $320 end of March?",
+      "price": 0.008,
+      "volume": 21642.07,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-31"
+    },
+    {
+      "question": "Will Micron Technology (MU) beat quarterly earnings?",
+      "price": 0.975,
+      "volume": 21265.1,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-18"
+    },
+    {
+      "question": "Will Google reach $375 in March?",
+      "price": 0.043,
+      "volume": 20971.01,
+      "day_change": -0.435,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    },
+    {
+      "question": "Will Playboy (PLBY) beat quarterly earnings?",
+      "price": 0.982,
+      "volume": 19114.56,
+      "day_change": 0.155,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-03-16"
+    },
+    {
+      "question": "Will NVIDIA dip to $176 in March?",
+      "price": 0.999,
+      "volume": 18688.61,
+      "day_change": null,
+      "week_change": null,
+      "month_change": null,
+      "end_date": "2026-04-01"
+    }
+  ]
+}
